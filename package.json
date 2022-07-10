@@ -1,0 +1,28 @@
+{
+  "name": "talabat-clone",
+  "version": "1.0.0",
+  "description": "Budget Talabat Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we-were-here-together/talabat-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/we-were-here-together/talabat-clone/issues"
+  },
+  "homepage": "https://github.com/we-were-here-together/talabat-clone#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.21.2",
+    "socket.io": "^4.5.1"
+  }
+}
